@@ -7,4 +7,12 @@
         <shortDescription>AAATESTTEST</shortDescription>
         <value>Test</value>
     </labels>
+    <labels>
+        <fullName>AssignBtn</fullName>
+        <categories>Opty Reassign Page</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AssignBtn</shortDescription>
+        <value>Assign</value>
+    </labels>
 </CustomLabels>
